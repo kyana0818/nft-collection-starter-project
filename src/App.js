@@ -174,7 +174,7 @@ const App = () => {
           }
         </div>
         <div className="footer-container">
-          <a alt="collection link" href="#" className="footer-text" target="_blank">コレクションを表示</a>
+          <a alt="collection link" href="https://testnets.opensea.io/collection/squarenft-cko2nubdvi" className="footer-text" target="_blank">コレクションを表示</a>
           <img alt="Twitter Logo" className="twitter-logo" src={twitterLogo} />
           <a
             className="footer-text"
